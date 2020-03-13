@@ -1,0 +1,7 @@
+*.DS_*
+*.pyc
+.vscode
+*.pyo
+.cache/
+.pytest_cache/
+__pycache__/
