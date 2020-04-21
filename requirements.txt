@@ -81,7 +81,6 @@ six==1.14.0
 tensorboard==1.15.0
 tensorflow-cpu==1.15.0
 tensorflow-estimator==1.15.1
-tensorflow-object-detection-api==0.1.1
 termcolor==1.1.0
 terminado==0.8.3
 testpath==0.4.4
